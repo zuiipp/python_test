@@ -8,4 +8,4 @@ for i in range(1, 5):
                 a = i*100 + j*10 +k
                 print(a)
 
-# 注释注释
+
